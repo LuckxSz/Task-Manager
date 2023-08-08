@@ -1,5 +1,6 @@
 # Task-Manager 📝
-Task Manager  using html || javascript || css <br>
+HTML を使用したタスク マネージャー || JavaScript || css
+ここからこのプロジェクトにアクセスできます:
 you can acess this project here : https://luckxsz.github.io/Task-Manager/
 
 
